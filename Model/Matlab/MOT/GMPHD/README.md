@@ -8,17 +8,9 @@ This repo containing the implementation of:
 
 3- single object tracker using Gaussian Mixture algorithm
 
-inside Model/Matlab/SOT folder. 
-
-And containing the implementation of:
-
-1- GM-PHD tracker
-
-2- GNN tracker
-
-inside Model/Matlab/MOT folder.
-
 and helper algorithms to help the above trackers to work properly.
+
+
 
 - To run the algorithms:
 
